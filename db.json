@@ -1,0 +1,54 @@
+{
+  "events": [
+    {
+      "id": 123,
+      "category": "animal welfare",
+      "title": "Cat Adoption Day",
+      "description": "Find your new feline friend at this event.",
+      "location": "Meow Town",
+      "date": "January 28, 2022",
+      "time": "12:00",
+      "organizer": "Kat Laydee"
+    },
+    {
+      "id": 456,
+      "category": "food",
+      "title": "Community Gardening",
+      "description": "Join us as we tend to the community edible plants.",
+      "location": "Flora City",
+      "date": "March 14, 2022",
+      "time": "10:00",
+      "organizer": "Fern Pollin"
+    },
+    {
+      "id": 789,
+      "category": "sustainability",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "organizer": "Carey Wales"
+    },
+    {
+      "id": "dee41a37-5c54-4a21-b470-5329da2b123b",
+      "category": "sustainability",
+      "title": "dummy",
+      "description": "dummy",
+      "location": "dummy",
+      "date": "dummy",
+      "time": "dummy",
+      "organizer": "Eyup Kaan"
+    },
+    {
+      "id": "ec0675f7-6fd7-4f55-afcd-1ee79a63555e",
+      "category": "sustainability",
+      "title": "test",
+      "description": "test",
+      "location": "test",
+      "date": "test",
+      "time": "test",
+      "organizer": "Eyup Kaan"
+    }
+  ]
+}
